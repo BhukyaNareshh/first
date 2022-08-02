@@ -1,0 +1,2 @@
+ public AbstractTranscriptionJobWorker(DataRepository dataRepository, JsonService jsonService, WatcherCreator watcherCreator,
+            AudioFileRetriever audioFileRetriever
